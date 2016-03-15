@@ -65,4 +65,5 @@ $this->params['breadcrumbs'][] = $this->title;
         </div>
 
     <?php endif; ?>
+    <b>Hello!))</b>
 </div>
